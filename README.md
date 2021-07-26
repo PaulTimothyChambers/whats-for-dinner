@@ -1,23 +1,54 @@
-# What's for Dinner?
+# 'What's For Dinner?' Solo Project
 
-## Overview
+### (Turing School of Software and Design)
 
-What's for dinner? The ultimate question. You will be building an app that helps users choose a recipe and put together meals. 
+## Table of Contents
 
-This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum. Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but any other code base should not be referenced. Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
+  - [Abstract](#abstract)
+  - [Technologies](#technologies)
+  - [Illustrations](#illustrations)
+  - [Access to Project](#access-to-project)
+  - [Contributors](#contributors)
+	- [Wins](#wins)
+	- [Challenges + Improvements](#challenges-+-improvements)
+  - [Project Specs](#project-specs)
 
-The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/dinner.html). 
+## Abstract
 
-## Learning Goals
+* Combine knowledge of HTML, CSS, and Javascript to create a page where users can obtain randomized suggestions of food recipes in three separate categories (or put all three together at once).
 
-- Gain experience building an application that utilizes HTML, CSS and JavaScript
-- Write HTML and CSS to match a provided comp
-- Understand how to listen to and respond to user events
-- Individualize your programming skill set
+## Technologies
 
-## Setup
+* Javascript
+* HTML
+* CSS
+* Atom
+* Web Browser (Brave)
 
-- Fork this project to your own Github account
-- Clone the repository to your local machine
-- `cd` into the project
-- Read this README thoroughly, then begin working!
+## Illustrations
+
+![WFDImgs](hhttps://i.imgur.com/eC1IbeZ.png)
+![WFDImgs](https://i.imgur.com/doXsJ3d.png)
+
+## Access to Project
+
+* [Click Here for Published Project](https://paultimothychambers.github/romcom/)
+
+## Contributors
+
+* [Paul Timothy Chambers](https://github.com/PaulTimothyChambers)
+
+## Wins
+
+* Deepened grasp of CSS and HTML fundamentals
+* Able to fix code after having it break too many times to count, even when I had not changed anything :P
+
+## Challenges + Improvements
+
+* CSS code is held together strictly with duct tape and paper clips; everything was slowly and manually coaxed into position. However, I feel that I'm beginning to get a decent grip on what CSS expects/needs from me
+* Need to do more learning on how positioning of elements in HTML affects how CSS interacts with it
+* Neglected to observe proper git workflow, which caused otherwise avoidable issues and wasted precious time
+
+## Project Specs
+
+* The project spec & rubric can be found [here](https://frontend.turing.edu/projects/module-1/romcom-pair.html)

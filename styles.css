@@ -1,10 +1,160 @@
-/* font-family: 'Roboto', sans-serif;
+font-family: 'Roboto', sans-serif;
 
-COLORS
-teal - #0fb9b1;
-frosted white - rgba(225, 225, 225, .9);
-grey - #95a5a6;
-red - #ee5253
+.main-view {
+  display: flex;
+  min-height: 100vh;
+}
 
-*/
+.container-left {
+  display: inline flex;
+  flex-direction: column;
+  position: relative;
+  top: 150px;
+  left: 45px;
+  font-size: 20;
+}
 
+.overlay-left {
+  display: flex;
+  position: absolute;
+  height: 440px;
+  width: 500px;
+  opacity: 100%;
+  top: 145px;
+  left: 125px;
+  background-color: rgba(225, 225, 225, .9);
+}
+
+.overlay-right {
+  display: flex;
+  position: absolute;
+  height: 440px;
+  width: 500px;
+  opacity: 100%;
+  top: 145px;
+  right: 125px;
+  background-color: rgba(225, 225, 225, .9);
+}
+
+.cookpot {
+  display: flex;
+  height: 165px;
+  width: 175px;
+  padding-top: 145px;
+  padding-right: 160px;
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  font-size: 20;
+  font-style: italic;
+  padding-top: 130px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  position: absolute;
+  width: 485px;
+  font-size: 38;
+  font-weight: bolder;
+  margin-top: 180px;
+  margin-left: 10px;
+}
+
+.background-image {
+  height: 145%;
+  width: 100%;
+  background-size: cover;
+}
+
+.border-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 45px;
+  width: 96.5%;
+  margin: 0;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: #0fb9b1;
+  background-size: cover;
+}
+
+.border-text {
+  font-size: 26;
+}
+
+.button-cook {
+  height: 40px;
+  width: 190px;
+  font-size: 14;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #95a5a6;
+  background-color: #0fb9b1;
+}
+
+.button-recipe {
+  height: 40px;
+  width: 130px;
+  border-radius: 10px;
+}
+
+.button-clear{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  align-items: center;
+  height: 30px;
+  width: 80px;
+  margin-top: 375px;
+  margin-left: 390px;
+  font-size: 15;
+  color: white;
+  border-style: hidden;
+  border-radius: 5px;
+  background-color: #95a5a6;
+}
+
+.button-delete{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  align-items: center;
+  height: 30px;
+  width: 80px;
+  margin-top: 375px;
+  margin-left: 25px;
+  font-size: 15;
+  color: white;
+  border-style: hidden;
+  border-radius: 5px;
+  background-color: #95a5a6;
+}
+
+.left-text {
+  display: flex;
+  position: absolute;
+  padding-top: 85px;
+  padding-left: 40px;
+  font-size: 31;
+  font-weight: bold;
+}
+
+.asterisk {
+  display: flex;
+  position: absolute;
+  padding-top: 78px;
+  padding-left: 388px;
+  font-size: 27;
+  color: #ee5253;
+}
+
+.hidden{
+  display: none;
+}
