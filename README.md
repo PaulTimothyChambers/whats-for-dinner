@@ -27,7 +27,7 @@
 
 ## Illustrations
 
-![WFDImgs](hhttps://i.imgur.com/eC1IbeZ.png)
+![WFDImgs](https://i.imgur.com/eC1IbeZ.png)
 ![WFDImgs](https://i.imgur.com/doXsJ3d.png)
 
 ## Access to Project
