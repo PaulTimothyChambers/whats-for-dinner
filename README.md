@@ -32,7 +32,7 @@
 
 ## Access to Project
 
-* [Click Here for Published Project](https://paultimothychambers.github/romcom/)
+* [Click Here for Published Project](https://paultimothychambers.github/whats-for-dinner/)
 
 ## Contributors
 
@@ -51,4 +51,4 @@
 
 ## Project Specs
 
-* The project spec & rubric can be found [here](https://frontend.turing.edu/projects/module-1/romcom-pair.html)
+* The project spec & rubric can be found [here](https://github.com/PaulTimothyChambers/whats-for-dinner)
