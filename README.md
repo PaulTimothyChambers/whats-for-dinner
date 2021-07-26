@@ -51,4 +51,4 @@
 
 ## Project Specs
 
-* The project spec & rubric can be found [here](https://github.com/PaulTimothyChambers/whats-for-dinner)
+* The project spec & rubric can be found [here](https://frontend.turing.edu/projects/module-1/dinner.html)
