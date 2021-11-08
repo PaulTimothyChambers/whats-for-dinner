@@ -41,13 +41,13 @@
 ## Wins
 
 * Deepened grasp of CSS and HTML fundamentals
-* Able to fix code after having it break too many times to count, even when I had not changed anything :P
+* Able to debug code quickly and efficiently
 
 ## Challenges + Improvements
 
 * CSS code is held together strictly with duct tape and paper clips; everything was slowly and manually coaxed into position. However, I feel that I'm beginning to get a decent grip on what CSS expects/needs from me
 * Need to do more learning on how positioning of elements in HTML affects how CSS interacts with it
-* Neglected to observe proper git workflow, which caused otherwise avoidable issues and wasted precious time
+* Neglected to observe proper git workflow (a mistake I will be careful not to repeat)
 
 ## Project Specs
 
